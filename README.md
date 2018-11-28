@@ -1,5 +1,5 @@
 # Josh Campbell's Portfolio
-I like Python, Docker, Linux, and AWS. And beer.
+Hello recruiter or hiring manager! My name's Josh and I like Python, Docker, Linux, AWS, and beer. This is a curated list of projects I have on GitHub.
 
 Résumé: https://☁💻.ws (yes, that is an awesome emoji domain!)
 
