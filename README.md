@@ -6,10 +6,10 @@ Résumé: https://☁💻.ws (yes, that is a super sweet emoji domain!)
 Email: [josh@userdel.com](mailto:josh@userdel.com)
 
 # Projects
-## alppb
-https://github.com/irlrobot/alppb
+## wings
+https://github.com/irlrobot/wings
 
-The Amazon Linux Python Package Builder (alppb) builds Python packages using the same version of Amazon Linux that the AWS Lambda service uses. Using alppb helps guarantee that any PyPI package your AWS Lambda app depends on will run properly. This is largely a portfolio project as it's a pretty overkill solution. Nevertheless, it's a great little project that showcases my ability to work with Python and AWS. It's also on [PyPI](https://pypi.org/project/alppb/).
+The goal of wings is to build and manage opinionated CI/CD toolchains for software projects using select AWS services with minimal configuration by the user. This means you take your existing source code, write a little bit of TOML, run wings, and get a full CI/CD pipeline using native AWS tools ([Code Suite services](https://aws.amazon.com/products/developer-tools/)) that cost next to nothing. Knowledge of the underlying services is not required. Spend more time coding and less time managing your CI/CD.
 
 ## lambda-chef-node-cleanup
 https://github.com/awslabs/lambda-chef-node-cleanup
@@ -25,6 +25,16 @@ I wrote this in 2016 to help test Python functions running on [AWS Lambda](https
 https://github.com/awslabs/lambda-runcommand-configuration-management
 
 I also worked on this while at AWS and legal wouldn't let me call it GARLC, so I had to call it lambda-runcommand-configuration-management. This was a POC to do continuous configuration management delivery (new marketing buzzword?!?! what have I done...) and was actually pretty fun to work on. Basically it uses AWS RunCommand to execute Ansible (in local mode) on hosts without actually needing SSH access anywhere (needs IAM Role). It even has a friggin' [theme song](https://github.com/awslabs/lambda-runcommand-configuration-management#theme-song).
+
+## whodis
+https://github.com/irlrobot/whodis
+
+Automatically detect the programming language(s) present in a source code directory. Useful as a library for other projects that want to do automatic configuration. I originally built this for, and intended to use it with, my [wings](https://github.com/irlrobot/portfolio#wings) project before I decided on a different configuration system.
+
+## alppb
+https://github.com/irlrobot/alppb
+
+The Amazon Linux Python Package Builder (alppb) builds Python packages using the same version of Amazon Linux that the AWS Lambda service uses. Using alppb helps guarantee that any PyPI package your AWS Lambda app depends on will run properly. This is largely a portfolio project as it's a pretty overkill solution. Nevertheless, it's a great little project that showcases my ability to work with Python and AWS. It's also on [PyPI](https://pypi.org/project/alppb/).
 
 ## Alexa Skills
 If you've been living under a rock for a while, Amazon makes a "virtual assistant" called Alexa and [a bunch of hardware devices](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011). Customers can enable "skills" which are basically apps for Alexa. [Amazon lets anyone create a skill](https://developer.amazon.com/alexa). I wrote a few.
@@ -54,16 +64,6 @@ A game similar to the old Password gameshow or the game that Jimmy Fallon plays 
 https://github.com/irlrobot/dockerfiles
 
 My collection of Dockerfiles. Largley uninteresting, but these days I do tend to do development exclusively using Docker.
-
-## whodis
-https://github.com/irlrobot/whodis
-
-Automatically detect the programming language(s) present in a source code directory. Useful as a library for other projects that want to do automatic configuration. I originally built this for, and intended to use it with, my [wings](https://github.com/irlrobot/portfolio#wings) project before I decided on a different configuration system.
-
-## wings
-https://github.com/irlrobot/wings
-
-The goal of wings is to build and manage opinionated CI/CD toolchains for software projects using select AWS services with minimal configuration by the user. This means you take your existing source code, write a little bit of TOML, run wings, and get a full CI/CD pipeline using native AWS tools ([Code Suite services](https://aws.amazon.com/products/developer-tools/)) that cost next to nothing. Knowledge of the underlying services is not required. Spend more time coding and less time managing your CI/CD.
 
 # Other Content
 I have a personal blog at https://userdel.com that was recently resurrected but still neglected.
