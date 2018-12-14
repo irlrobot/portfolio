@@ -17,27 +17,27 @@ https://github.com/awslabs/lambda-chef-node-cleanup
 This little project watches for AWS CloudWatch events for EC2 instance termination to automatically remove nodes from Chef Server saving $$$. It's meant to run as an AWS Lambda function.
 
 ## aws_lambda_sample_events_python - Python Library
-https://github.com/awslabs/aws_lambda_sample_events_python
+https://github.com/awslabs/aws_lambda_sample_events_python || https://pypi.org/project/aws-lambda-sample-events/
 
-I wrote this in 2016 to help test Python functions running on [AWS Lambda](https://aws.amazon.com/lambda/). It's also on [PyPI](https://pypi.org/project/aws-lambda-sample-events/).
+I wrote this to help test Python functions running on [AWS Lambda](https://aws.amazon.com/lambda/).
 
 ## GARLC - Python AWS Lambda Function
 https://github.com/awslabs/lambda-runcommand-configuration-management
 
-I also worked on this while at AWS and legal wouldn't let me call it GARLC, so I had to call it lambda-runcommand-configuration-management. This was a POC to do continuous configuration management delivery (new marketing buzzword?!?! what have I done...) and was actually pretty fun to work on. Basically it uses AWS RunCommand to execute Ansible (in local mode) on hosts without actually needing SSH access anywhere (needs IAM Role). Terraform included for setup and teardown. It even has a friggin' [theme song](https://github.com/awslabs/lambda-runcommand-configuration-management#theme-song).
+I worked on this while at AWS and legal wouldn't let me call it GARLC, so I had to call it lambda-runcommand-configuration-management. This was a POC to do continuous configuration management delivery (new marketing buzzword?!?! what have I done...) and was actually pretty fun to work on. Basically it uses AWS RunCommand to execute Ansible (in local mode) on hosts without actually needing SSH access anywhere (needs IAM Role). Terraform included for setup and teardown. It even has a friggin' [theme song](https://github.com/awslabs/lambda-runcommand-configuration-management#theme-song).
 
 ## whodis - Python Library
-https://github.com/irlrobot/whodis
+https://github.com/irlrobot/whodis || https://pypi.org/project/whodis/
 
 Automatically detect the programming language(s) present in a source code directory. Useful as a library for other projects that want to do automatic configuration. I originally built this for, and intended to use it with, my [wings](https://github.com/irlrobot/portfolio#wings) project before I decided on a different configuration system.
 
 ## alppb - Python CLI Tool
-https://github.com/irlrobot/alppb
+https://github.com/irlrobot/alppb || https://pypi.org/project/alppb/
 
-The Amazon Linux Python Package Builder (alppb) builds Python packages using the same version of Amazon Linux that the AWS Lambda service uses. Using alppb helps guarantee that any PyPI package your AWS Lambda app depends on will run properly. This is largely a portfolio project as it's a pretty overkill solution. Nevertheless, it's a great little project that showcases my ability to work with Python and AWS. It's also on [PyPI](https://pypi.org/project/alppb/).
+The Amazon Linux Python Package Builder (alppb) builds Python packages using the same version of Amazon Linux that the AWS Lambda service uses. Using alppb helps guarantee that any PyPI package your AWS Lambda app depends on will run properly. This is largely a portfolio project as it's a pretty overkill solution. Nevertheless, it's a great little project that showcases my ability to work with Python and AWS.
 
 ## pydng - Python CLI Tool and Library
-https://github.com/irlrobot/pydng
+https://github.com/irlrobot/pydng || https://pypi.org/project/pydng/
 
 The Python Docker Name Generator (pydng) is a port of the Docker name generator written in Go. Just because...
 
@@ -45,23 +45,17 @@ The Python Docker Name Generator (pydng) is a port of the Docker name generator 
 If you've been living under a rock for a while, Amazon makes a "virtual assistant" called Alexa and [a bunch of hardware devices](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011). Customers can enable "skills" which are basically apps for Alexa. [Amazon lets anyone create a skill](https://developer.amazon.com/alexa). I wrote a few.
 
 ### Unofficial MLB Game Info - Python AWS Lambda Function
-https://www.amazon.com/Rebuke-The-Net-Unofficial-Game/dp/B06XBYXKH9
-
-https://github.com/irlrobot/mlb_game_info
+https://github.com/irlrobot/mlb_game_info || https://www.amazon.com/Rebuke-The-Net-Unofficial-Game/dp/B06XBYXKH9
 
 This is my most popular skill during baseball season. I had to use "unofficial" in the name since I apparently don't represent Major League Baseball. It grabs the latest scores and next game for each team and puts that data into the format that Flash Briefing skills require. Customers enable the feed for each team they follow.
 
 ### Train My Brain - Python AWS Lambda Function
-https://www.amazon.com/Rebuke-The-Net-Train-Brain/dp/B073PRW6SB
-
-https://github.com/irlrobot/train_my_brain
+https://github.com/irlrobot/train_my_brain || https://www.amazon.com/Rebuke-The-Net-Train-Brain/dp/B073PRW6SB
 
 A "brain training" game. It still helps pay for my AWS bill :) Just say "Alexa, play train my brain."
 
 ### Code Word - Python AWS Lambda Function
-https://www.amazon.com/Rebuke-The-Net-Code-Word/dp/B077S3DCKN
-
-https://github.com/irlrobot/code_word
+https://github.com/irlrobot/code_word || https://www.amazon.com/Rebuke-The-Net-Code-Word/dp/B077S3DCKN
 
 A game similar to the old Password gameshow or the game that Jimmy Fallon plays sometimes. Just say "Alexa, play Code Word."
 
