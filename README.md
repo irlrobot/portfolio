@@ -1,5 +1,5 @@
 # Josh Campbell's Portfolio
-Hello recruiter or hiring manager! My name's Josh and I like Python, Docker, Linux, AWS, and beer. This is a curated list of projects I have on GitHub that I think you might be interested in. My full GitHub profile can be found [here](https://github.com/irlrobot) and [this is my Hackerrank profile](https://www.hackerrank.com/irlrobot) if you're into that sort of thing.
+Hello recruiter or hiring manager! My name's Josh and I like Python, Docker, Linux, AWS, and beer. This is a curated list of projects I have on GitHub that I think you might be interested in. My full GitHub profile can be found [here](https://github.com/irlrobot).
 
 Résumé: https://☁💻.ws (yes, that is a super sweet emoji domain!)
 
@@ -66,13 +66,13 @@ https://github.com/irlrobot/dockerfiles
 My collection of Dockerfiles. Largley uninteresting, but these days I do tend to do development exclusively using Docker.
 
 # Other Content
-I have a personal blog at https://userdel.com that was recently resurrected but still neglected.
+I have a personal blog at [https://userdel.com](https://userdel.com) that was recently resurrected but still neglected.
 
-I wrote a few blog posts for AWS when I worked for them between Oct 2015 and Oct 2018:
+[This is my Hackerrank profile](https://www.hackerrank.com/irlrobot) and [this is my StackOverflow profile](https://stackoverflow.com/users/3066574/irlrobot) if you're into that sort of thing.
+
+I wrote a few blog posts for AWS when I worked for them between Oct 2015 and Nov 2018:
 * [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/)
 * [Automatically Delete Terminated Instances in Chef Server with AWS Lambda and CloudWatch Events](https://aws.amazon.com/blogs/apn/automatically-delete-terminated-instances-in-chef-server-with-aws-lambda-and-cloudwatch-events/)
 * [AWS Sample Integrations for Atlassian Bitbucket Pipelines](https://aws.amazon.com/blogs/apn/aws-sample-integrations-for-atlassian-bitbucket-pipelines/)
 
-I really don't like public speaking but I did it a few times for internal AWS events and once publicly at ChefConf 2016: https://www.youtube.com/watch?v=NWhiWB87Wok&t=.
-
-My StackOverflow profile is not impressive: https://stackoverflow.com/users/3066574/irlrobot.
+I really don't like public speaking but I did it a few times for internal AWS events and [once publicly at ChefConf 2016](https://www.youtube.com/watch?v=NWhiWB87Wok&t=).
