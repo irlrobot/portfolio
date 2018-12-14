@@ -42,7 +42,7 @@ https://github.com/irlrobot/pydng || https://pypi.org/project/pydng/
 The Python Docker Name Generator (pydng) is a port of the Docker name generator written in Go. Just because...
 
 ## Alexa Skills
-If you've been living under a rock for a while, Amazon makes a "virtual assistant" called Alexa and [a bunch of hardware devices](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011). Customers can enable "skills" which are basically apps for Alexa. [Amazon lets anyone create a skill](https://developer.amazon.com/alexa). I wrote a few.
+If you've been living under a rock for a while, Amazon makes a "virtual assistant" called Alexa and [a bunch of hardware devices](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011). Customers can enable "skills" which are basically apps for Alexa. [Amazon lets anyone create a skill](https://developer.amazon.com/alexa). I've written a bunch, but a few of my most popular are below.
 
 ### Unofficial MLB Game Info - Python AWS Lambda Function
 https://github.com/irlrobot/mlb_game_info || https://www.amazon.com/Rebuke-The-Net-Unofficial-Game/dp/B06XBYXKH9
@@ -57,7 +57,7 @@ A "brain training" game. It still helps pay for my AWS bill :) Just say "Alexa, 
 ### Code Word - Python AWS Lambda Function
 https://github.com/irlrobot/code_word || https://www.amazon.com/Rebuke-The-Net-Code-Word/dp/B077S3DCKN
 
-A game similar to the old Password gameshow or the game that Jimmy Fallon plays sometimes. Just say "Alexa, play Code Word."
+A game similar to and inspired by the old gameshow ["Password"](https://en.wikipedia.org/wiki/Password_(game_show)). Jimmy Fallon has sorta revived it and [he plays it with guests occasionally](https://www.youtube.com/results?search_query=jimmy+fallon+password). Just say "Alexa, play Code Word."
 
 ## Dockerfiles
 https://github.com/irlrobot/dockerfiles
