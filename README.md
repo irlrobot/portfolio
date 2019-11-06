@@ -1,10 +1,6 @@
 # Josh Campbell's Portfolio
 Hello recruiter or hiring manager! My name's Josh and I like Python, Docker, Linux, AWS, and beer. This is a curated list of projects I have on GitHub that I think you might be interested in. My full GitHub profile can be found [here](https://github.com/irlrobot).
 
-Résumé: https://☁💻.ws (yes, that is a super sweet emoji domain!)
-
-Email: [josh@userdel.com](mailto:josh@userdel.com)
-
 # Projects
 ## wings - Python CLI Tool
 https://github.com/irlrobot/wings
