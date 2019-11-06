@@ -61,7 +61,7 @@ https://github.com/irlrobot/dockerfiles
 My collection of Dockerfiles. Largley uninteresting, but these days I do tend to do development exclusively using Docker.
 
 # Other Content
-I have a personal blog at [https://userdel.com](https://userdel.com) that was recently resurrected but still neglected.
+
 
 [This is my Hackerrank profile](https://www.hackerrank.com/irlrobot) and [this is my StackOverflow profile](https://stackoverflow.com/users/3066574/irlrobot) if you're into that sort of thing.
 
