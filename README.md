@@ -38,7 +38,7 @@ https://github.com/irlrobot/pydng || https://pypi.org/project/pydng/
 The Python Docker Name Generator (pydng) is a port of the Docker name generator written in Go. Just because...
 
 ## Alexa Skills
-If you've been living under a rock for a while, Amazon makes a "virtual assistant" called Alexa and [a bunch of hardware devices](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011). Customers can enable "skills" which are basically apps for Alexa. [Amazon lets anyone create a skill](https://developer.amazon.com/alexa). I've written a bunch, but a few of my most popular are below.
+Amazon makes a "virtual assistant" called Alexa and [a bunch of hardware devices](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011). Customers can enable "skills" which are basically apps for Alexa. [Amazon lets anyone create a skill](https://developer.amazon.com/alexa). I've written a bunch, but a few of my most popular are below.
 
 ### Unofficial MLB Game Info - Python AWS Lambda Function
 https://github.com/irlrobot/mlb_game_info || https://www.amazon.com/Rebuke-The-Net-Unofficial-Game/dp/B06XBYXKH9
