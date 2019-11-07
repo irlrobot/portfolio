@@ -1,5 +1,5 @@
 # Josh Campbell's Portfolio
-Hello recruiter or hiring manager! My name's Josh and I like Python, Docker, Linux, AWS, Amazon Alexa, and beer. This is a curated list of projects I have on GitHub and other places on the web that I think you might be interested in. My full GitHub profile can be found [here](https://github.com/irlrobot).
+Hello recruiter or hiring manager! My name's Josh and I like Python, Docker, Linux, AWS, Amazon Alexa, drones, and beer. This is a curated list of projects I have on GitHub and other places on the web that I think you might be interested in. My full GitHub profile can be found [here](https://github.com/irlrobot).
 
 # Projects
 ## lambda-chef-node-cleanup - Python AWS Lambda Function
@@ -69,5 +69,8 @@ I wrote a few blog posts for AWS when I worked for them between Oct 2015 and Nov
 # Speaking Events
 I really don't like public speaking but I did it a few times for internal AWS events and [once publicly at ChefConf 2016](https://www.youtube.com/watch?v=NWhiWB87Wok&t=).
 
-# Other
+# Other Content
 [This is my StackOverflow profile](https://stackoverflow.com/users/3066574/irlrobot) if you're into that sort of thing.
+
+# Hobbies
+My main hobby right now is flying drones. I primarily fly a [DJI Phantom 3 Pro](https://www.dji.com/phantom-3-pro) and I am currently studying to take the part 107 exam for my [Remote Pilot Certificate](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot/). I'm not into racing or showing off pictures/videos, I really just like to cruise around in first person view and see the world around me from another angle. I also play a lot of video games and watch TV with my wife when I'm not taking care of my daughter.
