@@ -1,5 +1,5 @@
 # Josh Campbell's Portfolio
-Hello recruiter or hiring manager! My name's Josh and I like Python, Docker, Linux, AWS, Amazon Alexa, drones, and beer. This is a curated list of projects I have on GitHub and other places on the web that I think you might be interested in. My full GitHub profile can be found [here](https://github.com/irlrobot) and [this is my StackOverflow profile](https://stackoverflow.com/users/3066574/irlrobot) if you're into that sort of thing.
+This is a curated list of projects I have on GitHub and other places on the web that I think you might be interested in. My full GitHub profile can be found [here](https://github.com/irlrobot) and [this is my StackOverflow profile](https://stackoverflow.com/users/3066574/irlrobot) if you're into that sort of thing.
 
 # Projects
 ## lambda-chef-node-cleanup - Python AWS Lambda Function
@@ -16,6 +16,8 @@ I wrote this to help test Python functions running on [AWS Lambda](https://aws.a
 https://github.com/awslabs/lambda-runcommand-configuration-management
 
 I worked on this while at AWS and legal wouldn't let me call it GARLC, so I had to call it lambda-runcommand-configuration-management. This was a POC to do continuous configuration management delivery (new marketing buzzword?!?! what have I done...) and was actually pretty fun to work on. Basically it uses AWS RunCommand to execute Ansible (in local mode) on hosts without actually needing SSH access anywhere (needs IAM Role). Terraform included for setup and teardown. It even has a friggin' [theme song](https://github.com/awslabs/lambda-runcommand-configuration-management#theme-song).
+
+Amazon archived the repo at some point in late 2019 or early 2020 so it is [now forked here](https://github.com/irlrobot/lambda-runcommand-configuration-management) in case it disappears from awslabs.
 
 ## Dockerfiles
 https://github.com/irlrobot/dockerfiles
@@ -68,7 +70,3 @@ I wrote a few blog posts for AWS when I worked for them between Oct 2015 and Nov
 
 # Speaking Events
 I really don't like public speaking but I did it a few times for internal AWS events and [once publicly at ChefConf 2016](https://www.youtube.com/watch?v=NWhiWB87Wok&t=).
-
-
-# Hobbies
-My main hobby right now is flying drones. I primarily fly a [DJI Phantom 3 Pro](https://www.dji.com/phantom-3-pro) and I am currently studying to take the part 107 exam for my [Remote Pilot Certificate](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot/). I'm not into racing or showing off pictures/videos, I really just like to cruise around in first person view and see the world around me from another angle. I also play a lot of video games and watch TV with my wife when I'm not taking care of my daughter.
