@@ -1,5 +1,5 @@
 # Josh Campbell's Portfolio
-This is a curated list of projects I have on GitHub and other places on the web that I think you might be interested in. My full GitHub profile can be found [here](https://github.com/irlrobot) and [this is my StackOverflow profile](https://stackoverflow.com/users/3066574/irlrobot) if you're into that sort of thing.
+This is a curated list of projects I have on GitHub and other places on the web. My full GitHub profile can be found [here](https://github.com/irlrobot) and [this is my StackOverflow profile](https://stackoverflow.com/users/3066574/irlrobot) if you're into that sort of thing.
 
 # Projects
 ## lambda-chef-node-cleanup - Python AWS Lambda Function
