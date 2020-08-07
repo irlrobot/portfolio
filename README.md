@@ -1,6 +1,24 @@
 # Josh Campbell's Portfolio
 This is a curated list of projects I have on GitHub and other places on the web. My full GitHub profile can be found [here](https://github.com/irlrobot) and [this is my StackOverflow profile](https://stackoverflow.com/users/3066574/irlrobot) if you're into that sort of thing.
 
+# Alexa Skills
+Amazon makes a "virtual assistant" called Alexa and [a bunch of hardware devices](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011). Customers can enable "skills" which are basically apps for Alexa. [Amazon lets anyone create a skill](https://developer.amazon.com/alexa). I've written a bunch, but a few of my most popular are below.
+
+### Code Word - Python AWS Lambda Function
+https://github.com/irlrobot/clue_countdown || https://www.amazon.com/Rebuke-The-Net-Code-Word/dp/B077S3DCKN
+
+A game similar to and inspired by the old gameshow ["Password"](https://en.wikipedia.org/wiki/Password_(game_show)). Jimmy Fallon has sorta revived it and [he plays it with guests occasionally](https://www.youtube.com/results?search_query=jimmy+fallon+password). Just say "Alexa, play Clue Countdown."
+
+### Train My Brain - Python AWS Lambda Function
+https://github.com/irlrobot/train_my_brain || https://www.amazon.com/Rebuke-The-Net-Train-Brain/dp/B073PRW6SB
+
+A "brain training" game. It still helps pay for my AWS bill :) Just say "Alexa, play train my brain."
+
+### Unofficial MLB Game Info - Python AWS Lambda Function
+https://github.com/irlrobot/mlb_game_info || https://www.amazon.com/Rebuke-The-Net-Unofficial-Game/dp/B06XBYXKH9
+
+This is my most popular skill during baseball season. I had to use "unofficial" in the name since I apparently don't represent Major League Baseball. It grabs the latest scores and next game for each team and puts that data into the format that Flash Briefing skills require. Customers enable the feed for each team they follow.
+
 # Projects
 ## lambda-chef-node-cleanup - Python AWS Lambda Function
 https://github.com/awslabs/lambda-chef-node-cleanup
@@ -43,24 +61,6 @@ Automatically detect the programming language(s) present in a source code direct
 https://github.com/irlrobot/pydng || https://pypi.org/project/pydng/
 
 The Python Docker Name Generator (pydng) is a port of the Docker name generator written in Go. Just because...
-
-# Alexa Skills
-Amazon makes a "virtual assistant" called Alexa and [a bunch of hardware devices](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011). Customers can enable "skills" which are basically apps for Alexa. [Amazon lets anyone create a skill](https://developer.amazon.com/alexa). I've written a bunch, but a few of my most popular are below.
-
-### Unofficial MLB Game Info - Python AWS Lambda Function
-https://github.com/irlrobot/mlb_game_info || https://www.amazon.com/Rebuke-The-Net-Unofficial-Game/dp/B06XBYXKH9
-
-This is my most popular skill during baseball season. I had to use "unofficial" in the name since I apparently don't represent Major League Baseball. It grabs the latest scores and next game for each team and puts that data into the format that Flash Briefing skills require. Customers enable the feed for each team they follow.
-
-### Train My Brain - Python AWS Lambda Function
-https://github.com/irlrobot/train_my_brain || https://www.amazon.com/Rebuke-The-Net-Train-Brain/dp/B073PRW6SB
-
-A "brain training" game. It still helps pay for my AWS bill :) Just say "Alexa, play train my brain."
-
-### Code Word - Python AWS Lambda Function
-https://github.com/irlrobot/code_word || https://www.amazon.com/Rebuke-The-Net-Code-Word/dp/B077S3DCKN
-
-A game similar to and inspired by the old gameshow ["Password"](https://en.wikipedia.org/wiki/Password_(game_show)). Jimmy Fallon has sorta revived it and [he plays it with guests occasionally](https://www.youtube.com/results?search_query=jimmy+fallon+password). Just say "Alexa, play Code Word."
 
 # Blog Posts
 I wrote a few blog posts for AWS when I worked for them between Oct 2015 and Nov 2018:
