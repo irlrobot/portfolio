@@ -4,20 +4,20 @@ This is a curated list of projects I have on GitHub and other places on the web.
 # Alexa Skills
 Amazon makes a "virtual assistant" called Alexa and [a bunch of hardware devices](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?node=9818047011). Customers can enable "skills" which are basically apps for Alexa. [Amazon lets anyone create a skill](https://developer.amazon.com/alexa). I've written a bunch, but a few of my most popular are below.
 
-### Code Word - Python AWS Lambda Function
-https://github.com/irlrobot/clue_countdown || https://www.amazon.com/Rebuke-The-Net-Code-Word/dp/B077S3DCKN
+### Train My Brain - Python AWS Lambda Function
+https://github.com/irlrobot/train_my_brain || https://www.amazon.com/dp/B073PRW6SB
+
+A popular "brain training" game I made. Just say "Alexa, play train my brain."
+
+### Clue Countdown - Python AWS Lambda Function
+https://github.com/irlrobot/clue_countdown || https://www.amazon.com/dp/B08FD24TBJ
 
 A game similar to and inspired by the old gameshow ["Password"](https://en.wikipedia.org/wiki/Password_(game_show)). Jimmy Fallon has sorta revived it and [he plays it with guests occasionally](https://www.youtube.com/results?search_query=jimmy+fallon+password). Just say "Alexa, play Clue Countdown."
 
-### Train My Brain - Python AWS Lambda Function
-https://github.com/irlrobot/train_my_brain || https://www.amazon.com/Rebuke-The-Net-Train-Brain/dp/B073PRW6SB
-
-A "brain training" game. It still helps pay for my AWS bill :) Just say "Alexa, play train my brain."
-
 ### Unofficial MLB Game Info - Python AWS Lambda Function
-https://github.com/irlrobot/mlb_game_info || https://www.amazon.com/Rebuke-The-Net-Unofficial-Game/dp/B06XBYXKH9
+https://github.com/irlrobot/mlb_game_info || https://www.amazon.com/dp/B06XBYXKH9
 
-This is my most popular skill during baseball season. I had to use "unofficial" in the name since I apparently don't represent Major League Baseball. It grabs the latest scores and next game for each team and puts that data into the format that Flash Briefing skills require. Customers enable the feed for each team they follow.
+A Flash Briefing skill that gives MLB baseball scores. I had to use "unofficial" in the name since I apparently don't represent Major League Baseball. It grabs the latest scores and next game for each team and puts that data into the format that Flash Briefing skills require. Customers enable the feed for each team they follow.
 
 # Projects
 ## lambda-chef-node-cleanup - Python AWS Lambda Function
